@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Agust%C3%ADn&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Systems%20%26%20Network%20Administrator%20·%20Barcelona&descAlignY=55&descSize=18" width="100%" alt="header" />
+<img src="assets/header.jpg" alt="Agustín Molina — Systems &amp; Network Administrator" width="100%" />
+
+<h1>Agustín Molina</h1>
+
+<p><b>Systems &amp; Network Administrator</b> · Barcelona</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Sysadmin+%40+Nextret+%E2%80%94+Service+Desk;Windows+Server+%E2%80%A2+Active+Directory+%E2%80%A2+Proxmox;Zabbix+%E2%80%A2+PRTG+%E2%80%A2+Centreon+%E2%80%A2+OP5;Roadmap+AWS%3A+CLF-C02+%E2%86%92+SAA-C03;Founder+%40+Kosai+Labs+%E2%80%94+web+design+%26+dev" alt="typing" />
 

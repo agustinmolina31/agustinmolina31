@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/header.jpg" alt="Agustín Molina — Systems &amp; Network Administrator" width="100%" />
+<img src="assets/header.jpg" alt="Agustín Molina — Service Desk &amp; Soporte IT" width="100%" />
 
 <h1>Agustín Molina</h1>
 
-<p><b>Systems &amp; Network Administrator</b> · Barcelona</p>
+<p><b>Service Desk &amp; Soporte IT</b> · Barcelona</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Sysadmin+%40+Nextret+%E2%80%94+Service+Desk;Windows+Server+%E2%80%A2+Active+Directory+%E2%80%A2+Proxmox;Zabbix+%E2%80%A2+PRTG+%E2%80%A2+Centreon+%E2%80%A2+OP5;Roadmap+AWS%3A+CLF-C02+%E2%86%92+SAA-C03;Founder+%40+Kosai+Labs+%E2%80%94+web+design+%26+dev" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Service+Desk+%26+Soporte+IT+%40+Nextret;Windows+Server+%E2%80%A2+Active+Directory+%E2%80%A2+Proxmox;Zabbix+%E2%80%A2+PRTG+%E2%80%A2+Centreon+%E2%80%A2+OP5;Founder+%40+Kosai+Labs+%E2%80%94+web+design+%26+dev" alt="typing" />
 
 <br/>
 
@@ -30,10 +30,9 @@
 
 <br/>
 
-Administrador de sistemas y redes en **Barcelona**. Trabajo en **Nextret** dando soporte en Service Desk: administración de Windows Server y Active Directory, virtualización con Proxmox, redes y monitorización de infraestructura.
+Trabajo en el **Service Desk de Nextret**, en **Barcelona**: monitorizo la infraestructura de nuestros clientes, resuelvo incidencias y doy soporte a usuarios finales. Titulado en administración de sistemas y redes, con año y medio en entornos corporativos.
 
 - 🎓 **Grado Superior en ASIR** y **Grado Medio en SMR**
-- ☁️ En ruta hacia la certificación **AWS** (Cloud Practitioner → Solutions Architect Associate), con Terraform, contenedores, ECS/Fargate y Lambda por el camino
 - 🎨 Fundador de **Kosai Labs**, estudio de diseño y desarrollo web
 - 🧰 Me interesa todo lo que quite trabajo manual: automatización, scripting y monitorización que avise antes de que el usuario llame
 - 📍 Barcelona, España
@@ -45,10 +44,9 @@ Administrador de sistemas y redes en **Barcelona**. Trabajo en **Nextret** dando
 
 <br/>
 
-Systems and network administrator based in **Barcelona, Spain**. I work at **Nextret** on the Service Desk: Windows Server and Active Directory administration, Proxmox virtualization, networking and infrastructure monitoring.
+I work on the **Service Desk at Nextret**, in **Barcelona, Spain**: monitoring client infrastructure, handling incidents and supporting end users. Qualified in systems and network administration, with a year and a half in corporate environments.
 
 - 🎓 **Higher National Diploma in Network Systems Administration (ASIR)** and **Diploma in Microcomputer Systems & Networks (SMR)**
-- ☁️ Currently working toward **AWS certification** (Cloud Practitioner → Solutions Architect Associate), covering Terraform, containers, ECS/Fargate and Lambda along the way
 - 🎨 Founder of **Kosai Labs**, a web design and development studio
 - 🧰 Interested in anything that removes manual work: automation, scripting and monitoring that alerts before the user does
 - 📍 Barcelona, Spain
@@ -75,19 +73,15 @@ Systems and network administrator based in **Barcelona, Spain**. I work at **Nex
 ![PRTG](https://img.shields.io/badge/PRTG-B71C1C?style=flat-square&logo=paessler&logoColor=white)
 ![Centreon](https://img.shields.io/badge/Centreon-009FDA?style=flat-square&logo=centreon&logoColor=white)
 ![OP5](https://img.shields.io/badge/OP5%20Monitor-2E7D32?style=flat-square&logo=nagios&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**Cloud & IaC** *(en curso / in progress)*
+**Trasteando / Playing with**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Scripting & Web**
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

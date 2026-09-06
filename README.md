@@ -33,6 +33,7 @@
 Trabajo en el **Service Desk de Nextret**, en **Barcelona**: monitorizo la infraestructura de nuestros clientes, resuelvo incidencias y doy soporte a usuarios finales. Titulado en administración de sistemas y redes, con año y medio en entornos corporativos.
 
 - 🎓 **Grado Superior en ASIR** y **Grado Medio en SMR**
+- 🖥️ **En el día a día:** monitorizo la infraestructura de varios clientes, gestiono incidencias en cuatro plataformas de ticketing distintas, doy acceso remoto con Apache Guacamole y PAM360, y reviso el CPD en persona (temperatura, energía, cableado y hardware)
 - 🎨 Fundador de **Kosai Labs**, estudio de diseño y desarrollo web
 - 🧰 Me interesa todo lo que quite trabajo manual: automatización, scripting y monitorización que avise antes de que el usuario llame
 - 📍 Barcelona, España
@@ -47,6 +48,7 @@ Trabajo en el **Service Desk de Nextret**, en **Barcelona**: monitorizo la infra
 I work on the **Service Desk at Nextret**, in **Barcelona, Spain**: monitoring client infrastructure, handling incidents and supporting end users. Qualified in systems and network administration, with a year and a half in corporate environments.
 
 - 🎓 **Higher National Diploma in Network Systems Administration (ASIR)** and **Diploma in Microcomputer Systems & Networks (SMR)**
+- 🖥️ **Day to day:** monitoring infrastructure across several clients, handling incidents in four different ticketing platforms, providing remote access through Apache Guacamole and PAM360, and checking the data centre on site (temperature, power, cabling and hardware)
 - 🎨 Founder of **Kosai Labs**, a web design and development studio
 - 🧰 Interested in anything that removes manual work: automation, scripting and monitoring that alerts before the user does
 - 📍 Barcelona, Spain
@@ -59,33 +61,55 @@ I work on the **Service Desk at Nextret**, in **Barcelona, Spain**: monitoring c
 
 <div align="center">
 
-**Sistemas / Systems**
+**Soporte y ticketing / Service desk & ticketing**
 
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Jira Service Management](https://img.shields.io/badge/Jira%20Service%20Management-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square)
+![GLPI](https://img.shields.io/badge/GLPI-F5AD00?style=flat-square)
+![OTRS](https://img.shields.io/badge/OTRS-1B4F72?style=flat-square)
 
 **Monitorización / Monitoring**
 
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
-![PRTG](https://img.shields.io/badge/PRTG-B71C1C?style=flat-square&logo=paessler&logoColor=white)
-![Centreon](https://img.shields.io/badge/Centreon-009FDA?style=flat-square&logo=centreon&logoColor=white)
-![OP5](https://img.shields.io/badge/OP5%20Monitor-2E7D32?style=flat-square&logo=nagios&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square)
+![PRTG](https://img.shields.io/badge/PRTG-B71C1C?style=flat-square)
+![Centreon](https://img.shields.io/badge/Centreon-009FDA?style=flat-square)
+![OP5 Monitor](https://img.shields.io/badge/OP5%20Monitor-2E7D32?style=flat-square)
+
+**Sistemas / Systems**
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-00A4EF?style=flat-square)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
+**Virtualización / Virtualization**
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![VMware vCenter](https://img.shields.io/badge/VMware%20vCenter-607078?style=flat-square&logo=vmware&logoColor=white)
+![Nutanix Prism Central](https://img.shields.io/badge/Nutanix%20Prism%20Central-024DA1?style=flat-square&logo=nutanix&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+**Accesos y red / Access & networking**
+
+![PAM360](https://img.shields.io/badge/PAM360-E1523D?style=flat-square)
+![Apache Guacamole](https://img.shields.io/badge/Apache%20Guacamole-D22128?style=flat-square&logo=apache&logoColor=white)
+![Cisco VPN Client](https://img.shields.io/badge/Cisco%20VPN%20Client-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![FortiClient](https://img.shields.io/badge/FortiClient-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![DNS & DHCP](https://img.shields.io/badge/DNS%20%26%20DHCP-4A5568?style=flat-square&logo=internetcomputer&logoColor=white)
+
+**Scripting & Web**
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Trasteando / Playing with**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Scripting & Web**
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
